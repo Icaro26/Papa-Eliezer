@@ -2,4 +2,5 @@
 Aprendiendo github
 
 ## descripcion
-Aprendiendo git hub 
+repo creado para aprender github
+
